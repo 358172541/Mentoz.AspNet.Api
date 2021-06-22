@@ -1,0 +1,157 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Mentoz.AspNet.Api</name>
+    </assembly>
+    <members>
+        <member name="M:Mentoz.AspNet.Api.MentozController.Auths_Token(Mentoz.AspNet.Api.MentozController.TokenRequest)">
+            <summary>
+            √
+            </summary>
+            <param name="request"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Mentoz.AspNet.Api.MentozController.Auths_Refresh(Mentoz.AspNet.Api.MentozController.TokenRefreshRequest)">
+            <summary>
+            √
+            </summary>
+            <param name="request"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Mentoz.AspNet.Api.MentozController.Auths_Profile">
+            <summary>
+            √
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:Mentoz.AspNet.Api.MentozController.Auths_Resource">
+            <summary>
+            √
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:Mentoz.AspNet.Api.MentozController.Rescs_Search">
+            <summary>
+            √
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:Mentoz.AspNet.Api.MentozController.Rescs_Single(System.Guid)">
+            <summary>
+            √
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Mentoz.AspNet.Api.MentozController.Rescs_Before">
+            <summary>
+            √
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:Mentoz.AspNet.Api.MentozController.Rescs_Create(Mentoz.AspNet.Api.RescCreateModel)">
+            <summary>
+            √
+            </summary>
+            <param name="model"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Mentoz.AspNet.Api.MentozController.Rescs_Update(System.Guid,Mentoz.AspNet.Api.RescUpdateModel)">
+            <summary>
+            √
+            </summary>
+            <param name="id"></param>
+            <param name="model"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Mentoz.AspNet.Api.MentozController.Rescs_Delete(System.Guid)">
+            <summary>
+            √
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Mentoz.AspNet.Api.MentozController.Roles_Search">
+            <summary>
+            √
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:Mentoz.AspNet.Api.MentozController.Roles_Single(System.Guid)">
+            <summary>
+            √
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Mentoz.AspNet.Api.MentozController.Roles_Before">
+            <summary>
+            √
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:Mentoz.AspNet.Api.MentozController.Roles_Create(Mentoz.AspNet.Api.RoleCreateModel)">
+            <summary>
+            √
+            </summary>
+            <param name="model"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Mentoz.AspNet.Api.MentozController.Roles_Update(System.Guid,Mentoz.AspNet.Api.RoleUpdateModel)">
+            <summary>
+            √
+            </summary>
+            <param name="id"></param>
+            <param name="model"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Mentoz.AspNet.Api.MentozController.Roles_Delete(System.Guid)">
+            <summary>
+            √
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Mentoz.AspNet.Api.MentozController.Users_Search">
+            <summary>
+            √
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:Mentoz.AspNet.Api.MentozController.Users_Single(System.Guid)">
+            <summary>
+            √
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Mentoz.AspNet.Api.MentozController.Users_Before">
+            <summary>
+            √
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:Mentoz.AspNet.Api.MentozController.Users_Create(Mentoz.AspNet.Api.UserCreateModel)">
+            <summary>
+            √
+            </summary>
+            <param name="model"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Mentoz.AspNet.Api.MentozController.Users_Update(System.Guid,Mentoz.AspNet.Api.UserUpdateModel)">
+            <summary>
+            √
+            </summary>
+            <param name="id"></param>
+            <param name="model"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Mentoz.AspNet.Api.MentozController.Users_Delete(System.Guid)">
+            <summary>
+            √
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>
